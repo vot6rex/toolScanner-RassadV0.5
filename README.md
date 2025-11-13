@@ -31,7 +31,7 @@ This project is provided **for educational and research purposes only**. Do **no
 - Simple banner fingerprinting rules.
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="Analyzer PRO GUI" width="800"/>
+  <img src="assets/Screenshot 2025-11-13 145759.png" alt="Analyzer PRO GUI" width="800"/>
 </p>
 
 
