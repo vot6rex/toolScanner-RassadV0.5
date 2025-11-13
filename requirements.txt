@@ -1,0 +1,6 @@
+# Optional GUI and helper libs
+PyQt5>=5.12  # optional: for the full Qt GUI
+colorama>=0.4.6  # optional: colored console output
+
+# If you expect to run on minimal systems (tkinter is usually included with CPython)
+# Add additional libraries here if you add features (e.g., cert validation libs)
