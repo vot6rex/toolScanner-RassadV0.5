@@ -3,6 +3,11 @@ Powerful async network scanner with GUI — discover open ports, banners, and TL
 
 # Analyzer PRO — BY VO@TREX6 (GUI port / service scanner)
 
+<p align="center">
+  <img src="assets/2785025.png" alt="Analyzer PRO Logo" width="200"/>
+</p>
+
+
 **⚠️ Legal & Ethical Notice — READ FIRST**  
 This project is provided **for educational and research purposes only**. Do **not** use this software to scan, probe, or test networks or systems for which you do not have **explicit written permission** to perform security testing. Unauthorized scanning may be illegal and could result in criminal or civil liability. By using or contributing to this project you agree to operate it only on systems you own or where you have explicit authorization. The author and repository maintainers are **not responsible** for any misuse.
 
@@ -24,6 +29,11 @@ This project is provided **for educational and research purposes only**. Do **no
 - Save/export results to JSON (and easily extendable to CSV).
 - Concurrency/timeout controls, optional ping-before-scan.
 - Simple banner fingerprinting rules.
+
+<p align="center">
+  <img src="assets/screenshot.png" alt="Analyzer PRO GUI" width="800"/>
+</p>
+
 
 ## Warnings & Limitations
 - **Do not** scan systems or networks without explicit authorization.
