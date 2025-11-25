@@ -1,4 +1,4 @@
-# toolScanner-RassadV0.5
+# toolScanner-RassadV0.5 soon version 0.6 gonna be available
 Powerful async network scanner with GUI — discover open ports, banners, and TLS info safely. ⚠️ Educational and ethical use only.
 
 # Analyzer PRO — BY VO@TREX6 (GUI port / service scanner)
