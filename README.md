@@ -13,7 +13,7 @@ This project is provided **for educational and research purposes only**. Do **no
 
 > I am not a lawyer — this notice is intended to reduce risk and inform users. If you expect others to run this tool in production or at scale, consult legal counsel or your organization's security/compliance team.
 
----
+--
 
 ## Overview
 **Analyzer PRO** is an advanced single-file GUI port and service scanner written in Python. It supports asynchronous scanning, multi-target expansion (CIDR/ranges), optional UDP/TLS probes, autosave/resume, and JSON/CSV export. The GUI uses PyQt5 when available, with a Tkinter fallback.
